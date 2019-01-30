@@ -12,6 +12,7 @@
         <module>Generic</module>
         <module>NYP</module>
         <module>Yahoo</module>
+        <module>UICatalog</module>
     </modules>
     <dependencyManagement>
         <dependencies>
