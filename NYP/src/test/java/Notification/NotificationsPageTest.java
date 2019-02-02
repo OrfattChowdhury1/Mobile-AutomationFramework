@@ -1,6 +1,6 @@
 package Notification;
 
-import notificationsPage.Notifications;
+import webpage.Notifications;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;

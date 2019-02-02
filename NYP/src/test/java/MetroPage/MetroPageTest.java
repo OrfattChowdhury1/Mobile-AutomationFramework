@@ -1,6 +1,6 @@
 package MetroPage;
 
-import metroPage.Metro;
+import webpage.Metro;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;

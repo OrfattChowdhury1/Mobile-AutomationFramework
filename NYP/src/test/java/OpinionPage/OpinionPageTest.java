@@ -1,6 +1,6 @@
 package OpinionPage;
 
-import opinionPage.Opinion;
+import webpage.Opinion;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;

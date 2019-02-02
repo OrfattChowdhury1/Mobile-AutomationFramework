@@ -1,6 +1,6 @@
 package NewsPage;
 
-import newsPage.News;
+import webpage.News;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;

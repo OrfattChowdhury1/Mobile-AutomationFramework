@@ -1,6 +1,6 @@
 package Entertainment;
 
-import entertainmentPage.Entertainment;
+import webpage.Entertainment;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;

@@ -1,6 +1,6 @@
 package Android;
 
-import BreakingNews.HomePageMenu;
+import webpage.HomePageMenu;
 import common.Base;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;

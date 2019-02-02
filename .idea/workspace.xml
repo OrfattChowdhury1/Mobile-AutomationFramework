@@ -2,19 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="841f32b9-73bc-4bd8-825f-3bf3a0e428f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yahoo/app/Xbox.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yahoo/app/com.googledrive.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yahoo/src/main/java/web/WebPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yahoo/src/test/java/testWeb/WebPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Notifications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Opinion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/PageSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Photos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/RealEstate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Sports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Tech.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/TopNews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Videos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYP/src/app/Yahoo Mail – Stay Organized_v5.36.6_apkpure.com.apk" beforeDir="false" afterPath="$PROJECT_DIR$/Yahoo/app/YahooMail.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/src/main/java/TopNews/TopNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/TopNews.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/src/main/java/notificationsPage/Notifications.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Notifications.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/src/main/java/opinionPage/Opinion.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Opinion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/src/main/java/pageSixPage/PageSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/PageSix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/src/main/java/photosPage/Photos.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Photos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/src/main/java/realEstatePage/RealEstate.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/RealEstate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/src/main/java/searchPage/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/src/main/java/settingsPage/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/src/main/java/sportsPage/Sports.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Sports.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/src/main/java/techPage/Tech.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Tech.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/src/main/java/videoPage/Videos.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/src/main/java/webpage/Videos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/src/test/java/Settings/SettingsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/src/test/java/Settings/SettingsPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/UICatalog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/app/UICatalog6.1.app.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/Alerts/Alerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/Buttons/Buttons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/Controls/Controls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/Imges/Images.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/Pickers/Picker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/SearchBar/SearchBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/Segments/Segments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/TextFields/TextFields.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/TextView/TextView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/Toolbar/Toolbar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/Transitions/Transitions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/WebPage/Web.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/navigate/NavigateUi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/AlertsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/ButtonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/ControlsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/ImagePageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/NavigateUiTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/PickerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/SearchBarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/SegmentsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/TextFieldsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/TextViewPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/ToolBarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/TransitionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/WebTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/ipad/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yahoo/app/Xbox.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yahoo/app/YahooMail.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yahoo/app/com.googledrive.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yahoo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yahoo/src/main/java/web/WebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yahoo/src/test/java/testWeb/WebPageTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
     <ignored path="$PROJECT_DIR$/NYP/target/" />
     <ignored path="$PROJECT_DIR$/Yahoo/target/" />
+    <ignored path="$PROJECT_DIR$/UICatalog/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,97 +81,57 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/techPage/Tech.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/TopNews/TopNews.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/videoPage/Videos.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NYP/src/test/java/Android/MenuPageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NYP/src/test/java/Business/BusinessPageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Yahoo/pom.xml">
+        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Sports.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NYP/src/test/java/testwebpage/TestWebPage.java">
+        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Settings.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Search.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/RealEstate.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Photos.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/PageSix.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Opinion.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYP/src/test/resources/TestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/BreakingNews/HomePageMenu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="153" column="1" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Yahoo/src/main/java/web/WebPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Notifications.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Yahoo/src/test/java/testWeb/WebPageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/News.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -160,6 +177,18 @@
         <option value="$PROJECT_DIR$/NYP/src/main/java/TopNews/TopNews.java" />
         <option value="$PROJECT_DIR$/NYP/src/main/java/videoPage/Videos.java" />
         <option value="$PROJECT_DIR$/NYP/src/main/java/BreakingNews/HomePageMenu.java" />
+        <option value="$PROJECT_DIR$/NYP/src/main/java/webpage/Videos.java" />
+        <option value="$PROJECT_DIR$/NYP/src/main/java/webpage/TopNews.java" />
+        <option value="$PROJECT_DIR$/NYP/src/main/java/webpage/Tech.java" />
+        <option value="$PROJECT_DIR$/NYP/src/main/java/webpage/Sports.java" />
+        <option value="$PROJECT_DIR$/NYP/src/main/java/webpage/Settings.java" />
+        <option value="$PROJECT_DIR$/NYP/src/main/java/webpage/Search.java" />
+        <option value="$PROJECT_DIR$/NYP/src/main/java/webpage/RealEstate.java" />
+        <option value="$PROJECT_DIR$/NYP/src/main/java/webpage/Photos.java" />
+        <option value="$PROJECT_DIR$/NYP/src/main/java/webpage/PageSix.java" />
+        <option value="$PROJECT_DIR$/NYP/src/main/java/webpage/Opinion.java" />
+        <option value="$PROJECT_DIR$/NYP/src/main/java/webpage/Notifications.java" />
+        <option value="$PROJECT_DIR$/NYP/src/main/java/webpage/News.java" />
       </list>
     </option>
   </component>
@@ -171,10 +200,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1555" />
-    <option name="height" value="848" />
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="1944" />
+    <option name="height" value="1059" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -212,36 +241,12 @@
               <item name="MobileFrameworkAndroidIos" type="462c0819:PsiDirectoryNode" />
               <item name="NYP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileFrameworkAndroidIos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileFrameworkAndroidIos" type="462c0819:PsiDirectoryNode" />
-              <item name="Yahoo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileFrameworkAndroidIos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileFrameworkAndroidIos" type="462c0819:PsiDirectoryNode" />
-              <item name="Yahoo" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileFrameworkAndroidIos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileFrameworkAndroidIos" type="462c0819:PsiDirectoryNode" />
-              <item name="Yahoo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileFrameworkAndroidIos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileFrameworkAndroidIos" type="462c0819:PsiDirectoryNode" />
-              <item name="Yahoo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MobileFrameworkAndroidIos" type="b2602c69:ProjectViewProjectNode" />
               <item name="MobileFrameworkAndroidIos" type="462c0819:PsiDirectoryNode" />
-              <item name="Yahoo" type="462c0819:PsiDirectoryNode" />
+              <item name="NYP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -249,9 +254,35 @@
             <path>
               <item name="MobileFrameworkAndroidIos" type="b2602c69:ProjectViewProjectNode" />
               <item name="MobileFrameworkAndroidIos" type="462c0819:PsiDirectoryNode" />
-              <item name="Yahoo" type="462c0819:PsiDirectoryNode" />
+              <item name="NYP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="newsPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileFrameworkAndroidIos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileFrameworkAndroidIos" type="462c0819:PsiDirectoryNode" />
+              <item name="NYP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="webpage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileFrameworkAndroidIos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileFrameworkAndroidIos" type="462c0819:PsiDirectoryNode" />
+              <item name="NYP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileFrameworkAndroidIos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileFrameworkAndroidIos" type="462c0819:PsiDirectoryNode" />
+              <item name="NYP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -260,8 +291,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548831344687" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BlueGrass" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549116468468" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MobileAutomationFrameWorkTofaelNov2018" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -271,11 +302,14 @@
       <recent name="webpage" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\orfat\Desktop\MobileFrameworkAndroidIos\UICatalog\src" />
+      <recent name="C:\Users\orfat\Desktop\MobileFrameworkAndroidIos" />
       <recent name="C:\Users\orfat\Desktop\MobileFrameworkAndroidIos\Yahoo\app" />
       <recent name="C:\Users\orfat\Desktop\MobileFrameworkAndroidIos\NYP\src\main\java" />
       <recent name="C:\Users\orfat\Desktop\MobileFrameworkAndroidIos\NYP\src\test\java" />
-      <recent name="C:\Users\orfat\Desktop\MobileFrameworkAndroidIos\NYP\src\app" />
-      <recent name="C:\Users\orfat\Desktop\MobileFrameworkAndroidIos\NYP\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="webpage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\orfat\Desktop\MobileFrameworkAndroidIos\Yahoo\src\test" />
@@ -439,44 +473,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/WebPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NYP/src/test/java/TestWebPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Findby.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NYP/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/WebPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -496,13 +492,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#7850#7858#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NYP/src/test/resources/TestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -702,16 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/BreakingNews/HomePageMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="153" column="1" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Yahoo/src/main/java/web/WebPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -725,6 +704,62 @@
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/BreakingNews/HomePageMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="153" column="1" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Videos.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/TopNews.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Tech.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Sports.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Settings.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Search.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/RealEstate.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Photos.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/PageSix.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Opinion.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/test/resources/TestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/Notifications.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/webpage/News.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

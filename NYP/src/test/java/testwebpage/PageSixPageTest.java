@@ -1,4 +1,4 @@
-package PageSix;
+package testwebpage;
 
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
